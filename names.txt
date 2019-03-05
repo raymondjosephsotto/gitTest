@@ -1,9 +1,6 @@
 Ray
-<<<<<<< HEAD
 Robb
-=======
 Robert
->>>>>>> develop
 Alyssa
 Josh
 Matt
